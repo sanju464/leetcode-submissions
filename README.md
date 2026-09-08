@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/sanju464/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-13-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-14-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -21,6 +21,7 @@
 | 76 | [Minimum Window Substring](Hard/0076-minimum-window-substring/) | `Hard` | [`Python`](Hard/0076-minimum-window-substring/minimum-window-substring.py) |
 | 125 | [Valid Palindrome](Easy/0125-valid-palindrome/) | `Easy` | [`Python`](Easy/0125-valid-palindrome/valid-palindrome.py) |
 | 217 | [Contains Duplicate](Easy/0217-contains-duplicate/) | `Easy` | [`Python`](Easy/0217-contains-duplicate/contains-duplicate.py) |
+| 347 | [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) | `Medium` | [`Python`](Medium/0347-top-k-frequent-elements/top-k-frequent-elements.py) |
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | [`Python`](Easy/0509-fibonacci-number/fibonacci-number.py) |
 | 1342 | [Number Of Steps To Reduce A Number To Zero](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | `Easy` | [`Python`](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/number-of-steps-to-reduce-a-number-to-zero.py) |
 | 1518 | [Water Bottles](Easy/1518-water-bottles/) | `Easy` | [`Python`](Easy/1518-water-bottles/water-bottles.py) |
