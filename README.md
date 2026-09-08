@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/sanju464/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-18-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-19-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -14,6 +14,7 @@
 | 1 | [Two Sum](Easy/0001-two-sum/) | `Easy` | [`Python`](Easy/0001-two-sum/two-sum.py) |
 | 3 | [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) | `Medium` | [`Python`](Medium/0003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) |
 | 4 | [Median Of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) | `Hard` | [`Python`](Hard/0004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.py) |
+| 11 | [Container With Most Water](Medium/0011-container-with-most-water/) | `Medium` | [`Python`](Medium/0011-container-with-most-water/container-with-most-water.py) |
 | 12 | [Integer To Roman](Medium/0012-integer-to-roman/) | `Medium` | [`Python`](Medium/0012-integer-to-roman/integer-to-roman.py) |
 | 20 | [Valid Parentheses](Easy/0020-valid-parentheses/) | `Easy` | [`Python`](Easy/0020-valid-parentheses/valid-parentheses.py) |
 | 42 | [Trapping Rain Water](Hard/0042-trapping-rain-water/) | `Hard` | [`Python`](Hard/0042-trapping-rain-water/trapping-rain-water.py) |
