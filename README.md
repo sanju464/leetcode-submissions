@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/sanju464/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-11-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-12-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -18,6 +18,7 @@
 | 50 | [Powx N](Medium/0050-powx-n/) | `Medium` | [`Python`](Medium/0050-powx-n/powx-n.py) |
 | 62 | [Unique Paths](Medium/0062-unique-paths/) | `Medium` | [`Python`](Medium/0062-unique-paths/unique-paths.py) |
 | 76 | [Minimum Window Substring](Hard/0076-minimum-window-substring/) | `Hard` | [`Python`](Hard/0076-minimum-window-substring/minimum-window-substring.py) |
+| 125 | [Valid Palindrome](Easy/0125-valid-palindrome/) | `Easy` | [`Python`](Easy/0125-valid-palindrome/valid-palindrome.py) |
 | 217 | [Contains Duplicate](Easy/0217-contains-duplicate/) | `Easy` | [`Python`](Easy/0217-contains-duplicate/contains-duplicate.py) |
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | [`Python`](Easy/0509-fibonacci-number/fibonacci-number.py) |
 | 1342 | [Number Of Steps To Reduce A Number To Zero](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | `Easy` | [`Python`](Easy/1342-number-of-steps-to-reduce-a-number-to-zero/number-of-steps-to-reduce-a-number-to-zero.py) |
