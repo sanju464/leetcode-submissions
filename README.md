@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/sanju464/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-12-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-13-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -15,6 +15,7 @@
 | 12 | [Integer To Roman](Medium/0012-integer-to-roman/) | `Medium` | [`Python`](Medium/0012-integer-to-roman/integer-to-roman.py) |
 | 20 | [Valid Parentheses](Easy/0020-valid-parentheses/) | `Easy` | [`Python`](Easy/0020-valid-parentheses/valid-parentheses.py) |
 | 42 | [Trapping Rain Water](Hard/0042-trapping-rain-water/) | `Hard` | [`Python`](Hard/0042-trapping-rain-water/trapping-rain-water.py) |
+| 49 | [Group Anagrams](Medium/0049-group-anagrams/) | `Medium` | [`Python`](Medium/0049-group-anagrams/group-anagrams.py) |
 | 50 | [Powx N](Medium/0050-powx-n/) | `Medium` | [`Python`](Medium/0050-powx-n/powx-n.py) |
 | 62 | [Unique Paths](Medium/0062-unique-paths/) | `Medium` | [`Python`](Medium/0062-unique-paths/unique-paths.py) |
 | 76 | [Minimum Window Substring](Hard/0076-minimum-window-substring/) | `Hard` | [`Python`](Hard/0076-minimum-window-substring/minimum-window-substring.py) |
