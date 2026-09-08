@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/sanju464/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-17-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-18-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -22,6 +22,7 @@
 | 62 | [Unique Paths](Medium/0062-unique-paths/) | `Medium` | [`Python`](Medium/0062-unique-paths/unique-paths.py) |
 | 76 | [Minimum Window Substring](Hard/0076-minimum-window-substring/) | `Hard` | [`Python`](Hard/0076-minimum-window-substring/minimum-window-substring.py) |
 | 84 | [Largest Rectangle In Histogram](Hard/0084-largest-rectangle-in-histogram/) | `Hard` | [`Python`](Hard/0084-largest-rectangle-in-histogram/largest-rectangle-in-histogram.py) |
+| 121 | [Best Time To Buy And Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) | `Easy` | [`Python`](Easy/0121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 125 | [Valid Palindrome](Easy/0125-valid-palindrome/) | `Easy` | [`Python`](Easy/0125-valid-palindrome/valid-palindrome.py) |
 | 217 | [Contains Duplicate](Easy/0217-contains-duplicate/) | `Easy` | [`Python`](Easy/0217-contains-duplicate/contains-duplicate.py) |
 | 347 | [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) | `Medium` | [`Python`](Medium/0347-top-k-frequent-elements/top-k-frequent-elements.py) |
