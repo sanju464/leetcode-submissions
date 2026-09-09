@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/sanju464/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-23-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-24-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -29,6 +29,7 @@
 | 150 | [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) | `Medium` | [`Python`](Medium/0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
 | 217 | [Contains Duplicate](Easy/0217-contains-duplicate/) | `Easy` | [`Python`](Easy/0217-contains-duplicate/contains-duplicate.py) |
 | 242 | [Valid Anagram](Easy/0242-valid-anagram/) | `Easy` | [`Python`](Easy/0242-valid-anagram/valid-anagram.py) |
+| 283 | [Move Zeroes](Easy/0283-move-zeroes/) | `Easy` | [`Python`](Easy/0283-move-zeroes/move-zeroes.py) |
 | 347 | [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) | `Medium` | [`Python`](Medium/0347-top-k-frequent-elements/top-k-frequent-elements.py) |
 | 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | [`Python`](Easy/0509-fibonacci-number/fibonacci-number.py) |
 | 560 | [Subarray Sum Equals K](Medium/0560-subarray-sum-equals-k/) | `Medium` | [`Python`](Medium/0560-subarray-sum-equals-k/subarray-sum-equals-k.py) |
