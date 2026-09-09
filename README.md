@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/sanju464/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-21-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-22-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -26,6 +26,7 @@
 | 84 | [Largest Rectangle In Histogram](Hard/0084-largest-rectangle-in-histogram/) | `Hard` | [`Python`](Hard/0084-largest-rectangle-in-histogram/largest-rectangle-in-histogram.py) |
 | 121 | [Best Time To Buy And Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) | `Easy` | [`Python`](Easy/0121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
 | 125 | [Valid Palindrome](Easy/0125-valid-palindrome/) | `Easy` | [`Python`](Easy/0125-valid-palindrome/valid-palindrome.py) |
+| 150 | [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) | `Medium` | [`Python`](Medium/0150-evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
 | 217 | [Contains Duplicate](Easy/0217-contains-duplicate/) | `Easy` | [`Python`](Easy/0217-contains-duplicate/contains-duplicate.py) |
 | 242 | [Valid Anagram](Easy/0242-valid-anagram/) | `Easy` | [`Python`](Easy/0242-valid-anagram/valid-anagram.py) |
 | 347 | [Top K Frequent Elements](Medium/0347-top-k-frequent-elements/) | `Medium` | [`Python`](Medium/0347-top-k-frequent-elements/top-k-frequent-elements.py) |
